@@ -1,2 +1,2 @@
-
-print('Hello CMU!')
+import streamlit as st
+st.write("Hello CMU!")
